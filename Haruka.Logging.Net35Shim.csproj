@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net35</TargetFramework>
+        <ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <RootNamespace>Haruka.Logging.Net35Shim</RootNamespace>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Title>.NET 3.5 Logging Shim</Title>
+        <Description>Shim for Microsoft's Logging package for .NET 3.5 </Description>
+        <Copyright>(c) 2026 Haruka Akechi and contributors</Copyright>
+        <PackageProjectUrl>https://github.com/akechi-haruka/Haruka.Logging.Net35Shim</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/akechi-haruka/Haruka.Logging.Net35Shim</RepositoryUrl>
+    </PropertyGroup>
+
+</Project>
