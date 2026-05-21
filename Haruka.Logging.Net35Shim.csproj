@@ -11,6 +11,7 @@
         <Copyright>(c) 2026 Haruka Akechi and contributors</Copyright>
         <PackageProjectUrl>https://github.com/akechi-haruka/Haruka.Logging.Net35Shim</PackageProjectUrl>
         <RepositoryUrl>https://github.com/akechi-haruka/Haruka.Logging.Net35Shim</RepositoryUrl>
+        <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     </PropertyGroup>
 
 </Project>
